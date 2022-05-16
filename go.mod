@@ -133,7 +133,7 @@ require (
 	gopkg.in/ldap.v3 v3.1.0
 	gopkg.in/mgo.v2 v2.0.0-20180705113604-9856a29383ce
 	gopkg.in/olivere/elastic.v5 v5.0.70
-	gopkg.in/yaml.v2 v2.2.4
+	gopkg.in/yaml.v2 v2.2.8
 	gotest.tools v2.2.0+incompatible // indirect
 	k8s.io/apimachinery v0.17.1 // indirect
 )
