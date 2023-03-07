@@ -15,7 +15,7 @@ require (
 	github.com/Shopify/sarama v1.24.1
 	github.com/StackExchange/wmi v0.0.0-20180116203802-5d049714c4a6
 	github.com/aerospike/aerospike-client-go v1.27.0
-	github.com/alecthomas/units v0.0.0-20151022065526-2efee857e7cf
+	github.com/alecthomas/units v0.0.0-20190924025748-f65c72e2690d
 	github.com/amir/raidman v0.0.0-20170415203553-1ccc43bfb9c9
 	github.com/apache/thrift v0.12.0
 	github.com/armon/go-metrics v0.3.0 // indirect
@@ -40,7 +40,7 @@ require (
 	github.com/ericchiang/k8s v1.2.0
 	github.com/ghodss/yaml v1.0.1-0.20190212211648-25d852aebe32
 	github.com/glinton/ping v0.1.3
-	github.com/go-logfmt/logfmt v0.4.0
+	github.com/go-logfmt/logfmt v0.5.0
 	github.com/go-ole/go-ole v1.2.1 // indirect
 	github.com/go-redis/redis v6.12.0+incompatible
 	github.com/go-sql-driver/mysql v1.4.1
@@ -50,8 +50,8 @@ require (
 	github.com/gofrs/uuid v2.1.0+incompatible
 	github.com/gogo/protobuf v1.2.2-0.20190723190241-65acae22fc9d
 	github.com/golang/mock v1.3.1-0.20190508161146-9fa652df1129 // indirect
-	github.com/golang/protobuf v1.3.2
-	github.com/google/go-cmp v0.3.0
+	github.com/golang/protobuf v1.4.3
+	github.com/google/go-cmp v0.5.5
 	github.com/google/go-github v17.0.0+incompatible
 	github.com/google/go-querystring v1.0.0 // indirect
 	github.com/gorilla/mux v1.6.2
@@ -96,16 +96,16 @@ require (
 	github.com/opentracing-contrib/go-observer v0.0.0-20170622124052-a52f23424492 // indirect
 	github.com/opentracing/opentracing-go v1.0.2 // indirect
 	github.com/openzipkin/zipkin-go-opentracing v0.3.4
-	github.com/pkg/errors v0.8.1
-	github.com/prometheus/client_golang v0.9.3-0.20190127221311-3c4408c8b829
-	github.com/prometheus/client_model v0.0.0-20190115171406-56726106282f
-	github.com/prometheus/common v0.2.0
+	github.com/pkg/errors v0.9.1
+	github.com/prometheus/client_golang v1.11.1
+	github.com/prometheus/client_model v0.2.0
+	github.com/prometheus/common v0.26.0
 	github.com/safchain/ethtool v0.0.0-20200218184317-f459e2d13664
 	github.com/samuel/go-zookeeper v0.0.0-20180130194729-c4fab1ac1bec // indirect
 	github.com/satori/go.uuid v1.2.1-0.20181028125025-b2ce2384e17b // indirect
 	github.com/shirou/gopsutil v2.20.1+incompatible
 	github.com/shopspring/decimal v0.0.0-20200105231215-408a2507e114 // indirect
-	github.com/sirupsen/logrus v1.2.0
+	github.com/sirupsen/logrus v1.6.0
 	github.com/soniah/gosnmp v1.22.0
 	github.com/streadway/amqp v0.0.0-20180528204448-e5adc2ada8b8
 	github.com/stretchr/testify v1.4.0
@@ -120,9 +120,9 @@ require (
 	github.com/wvanbergen/kafka v0.0.0-20171203153745-e2edea948ddf
 	github.com/wvanbergen/kazoo-go v0.0.0-20180202103751-f72d8611297a // indirect
 	github.com/yuin/gopher-lua v0.0.0-20180630135845-46796da1b0b4 // indirect
-	golang.org/x/net v0.0.0-20200202094626-16171245cfb2
+	golang.org/x/net v0.0.0-20200625001655-4c5254603344
 	golang.org/x/oauth2 v0.0.0-20190226205417-e64efc72b421
-	golang.org/x/sys v0.0.0-20200212091648-12a6c2dcc1e4
+	golang.org/x/sys v0.0.0-20210603081109-ebe580a85c40
 	gonum.org/v1/gonum v0.6.2 // indirect
 	google.golang.org/api v0.3.1
 	google.golang.org/genproto v0.0.0-20190404172233-64821d5d2107
@@ -133,7 +133,7 @@ require (
 	gopkg.in/ldap.v3 v3.1.0
 	gopkg.in/mgo.v2 v2.0.0-20180705113604-9856a29383ce
 	gopkg.in/olivere/elastic.v5 v5.0.70
-	gopkg.in/yaml.v2 v2.2.4
+	gopkg.in/yaml.v2 v2.3.0
 	gotest.tools v2.2.0+incompatible // indirect
 	k8s.io/apimachinery v0.17.1 // indirect
 )
